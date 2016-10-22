@@ -21,7 +21,7 @@ namespace BangazonProductRevenueReports
             cs.CommandType = CommandType.Text;
             SqlDataReader reader;
             
-            //List<string> Names = new List<string>();
+                        //List<string> Names = new List<string>();
             //List<string> Values = new List<string>()
             List<KeyValuePair<string, int>> reportValues = new List<KeyValuePair<string, int>>();
 
