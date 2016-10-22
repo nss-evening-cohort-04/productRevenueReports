@@ -4,8 +4,8 @@
 ## Setup
 1. Clone
 2. Run
-a. Open in Visual Studio and run. 
-b. cd into `\src\BangazonProductRevenueReports\` and 'dotnet run'.
+* Open in Visual Studio and run. 
+* cd into `\src\BangazonProductRevenueReports\` and 'dotnet run'.
 
 ----
 
